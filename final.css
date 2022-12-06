@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+    overflow-y: hidden; 
+    background-position: center;
+    background-image: url("sibuta bimbing si buta.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Navbar */
+nav{
+    display: flex;
+    background-color: rgba(240, 232, 232, 0.7);
+    justify-content: space-around;
+    height: 100px;
+    align-items: center;
+}
+/* position: static; */
+ nav ul{
+    display: flex;
+    list-style: none;
+    width: 40%;
+    justify-content: space-between;
+} 
+
+/* .bgnav{
+    margin-top: -100px;
+    position: absolute;
+}  */
+
+nav ul li a{
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+}
+.dua{
+    text-align: center;
+}
