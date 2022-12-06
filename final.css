@@ -58,13 +58,15 @@ nav ul li a img{
 
 .dua .text{
     padding: 300px 0 0 0;
-
+    color: aliceblue;
 }
-.dua a{
+.dua button{
     color: white;
     background-color: black;
     text-decoration: none;
-    border: 5px solid black;
+    border: 10px solid black;
     padding-right: 10px;
     padding-left: 10px;
+
 }
+
