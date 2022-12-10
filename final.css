@@ -69,4 +69,10 @@ nav ul li a img{
     padding-left: 10px;
 
 }
+.container .text h3{
+    text-decoration: none;
+    text-align: left;
+    margin-right: 40%;
+    margin-left: 50%;
+}
 
